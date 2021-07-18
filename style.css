@@ -99,7 +99,8 @@ p {
 }
 
 .logo {
-    height: 80px; 
+    height: 50px;
+    margin: 10px;
 }
 
 .social {
